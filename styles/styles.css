@@ -154,3 +154,8 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+.footer-container{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 240px;
+}
