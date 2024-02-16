@@ -158,4 +158,35 @@ main{
     display: flex;
     background: #FFF8F3;
     padding: 130px 240px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.icons>a{
+    margin-right: 15px;
+}
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.contact-info>input, textarea{
+    margin: 10px 25px;
+    height: 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+}
+#massage{
+    height: 110px;
+}
+#massage-title{
+    text-align: left;
+    margin: 10px 25px;
+}
+#submit-button{
+    margin: 10px 25px;
+    
 }
